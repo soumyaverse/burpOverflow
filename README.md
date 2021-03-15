@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* [Twitter](https://twitter.com/burpOverflow)
+* [SubReddit](https://www.reddit.com/r/burpOverflow/)
+* [Medium](https://burpoverflow.medium.com/)
+
 <!--
 **burpOverflow/burpOverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
